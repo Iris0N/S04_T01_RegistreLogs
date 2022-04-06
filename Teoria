@@ -1,1 +1,58 @@
+ 4. Sprint 4. Altres mòduls bàsics de Python
 
+Durada : 8 dies 
+
+Objectiu general:  
+
+    Aprendre altres estructures i models bàsics de Python 
+
+Objectius específics:  
+
+    Aplicar adequadament el JSON  
+    Interpretar el llenguatge del RegEx
+    Altres conceptes: Classes, Objectes i Dates.
+
+Si algun recurs de towardsdatascience o medium demana registre, proveu d’obrir-lo en finestra d’incògnit.
+
+1- Mòduls avançats de Python
+
+En aquest llibre veuràs els conceptes bàsics de programació orientada a objectes (POO) així com crear classes i funcions. Aquest sprint és especialment important per tal de que el codi sigui modular i es pugui reproduir fàcilment.
+
+
+1. Mòduls avançats de Python i POO
+
+Mòduls avançats de Python i POO
+https://www.w3schools.com/python/python_classes.asp
+
+    Des de Python Classes/Objects fins Python String Formatting.
+
+Guia de referència general i mòduls
+https://www.w3schools.com/python/python_reference.asp
+
+    Aquesta secció conté documentació de referència de Python.
+
+Programació científica en SciPy
+https://www.w3schools.com/python/scipy/scipy_intro.php
+
+1- Mòduls avançats de Python
+
+En aquest llibre veuràs els conceptes bàsics de programació orientada a objectes (POO) així com crear classes i funcions. Aquest sprint és especialment important per tal de que el codi sigui modular i es pugui reproduir fàcilment.
+
+
+2. Recursos complementaris interessants
+
+Recursos complementaris interessants: Més enllaços
+
+    https://regex101.com
+    https://pypi.org/project/ip2geotools 
+    https://ipinfo.io
+
+Guía paer la preparació de la dada
+
+    Descarrega't el fitxer adjuntat dins de la carpeta
+
+02 paradigma ecosistema Big Data
+
+    Descarrega't el fitxer adjuntat dins de la carpeta
+
+Curs complementari d’analítica i ciència de dades
